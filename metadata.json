@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cupcake Corner",
+  "description": "A delightful frontend application simulating a cupcake shop. Users can log in, browse a list of delicious cupcakes, add them to a cart, and go through a mock checkout process. This project is a frontend-only demonstration using mock data to simulate a full-stack experience.",
+  "requestFramePermissions": []
+}
